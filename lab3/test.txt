@@ -1,0 +1,18 @@
+int main() {
+    int a;
+    int b;
+    int c;
+    b = 1;
+    a = a*3;
+    b = b - a;
+    
+    c = 5;
+    while b {
+        a = 3;
+    }
+    if c {
+        b = 5;
+    }
+    a = a + c;
+    return a;
+}
