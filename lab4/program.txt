@@ -1,0 +1,10 @@
+a = 1
+b = 2
+for i = 3, b in
+    a = a + 4
+
+if b then
+    a = a - 5
+else
+    a = 6
+a = 1000
